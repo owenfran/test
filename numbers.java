@@ -1,4 +1,4 @@
-public class numbers{
+public class numbers(){
 	public static void main{
 		int seven = 7;
 		int nine = 9;
