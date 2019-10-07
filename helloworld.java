@@ -1,2 +1,3 @@
-System.out.println("Hello World");
-combineharvester;
+public class helloworld{
+	System.out.println("Hello World");
+}
